@@ -26,8 +26,8 @@ h1 {
 }
 .with-overlay {
   background-image: linear-gradient(
-      hsla(0, 0%, 0%, 0.5),
-      rgba(0, 0, 0, 0.5
+      hsla(0, 0%, 0%, 0.7),
+      rgba(0, 0, 0, 0.7
     ),
     url("./Skin\ \(1\).jpg");
   width: 50%;
